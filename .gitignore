@@ -1,0 +1,20 @@
+# Compilation outputs
+cmake-build-debug/
+build/
+build_wasm/
+build_wasm_dir/
+bin/
+obj/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+.output.txt
+
+# OS files
+.DS_Store
+Thumbs.db

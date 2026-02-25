@@ -1,0 +1,12 @@
+{
+    "skeleton": "soldier.fbx",
+    "states": {
+        "IDLE": 0,
+        "JUMP": 1,
+        "RUN": 1
+    },
+    "textures": [
+        "MI_Quinn_01_BaseColor_0.png",
+        "MI_Quinn_02_BaseColor_1.png"
+    ]
+}
